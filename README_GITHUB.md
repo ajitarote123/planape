@@ -1,2 +1,0 @@
-# planape
-A Planning App
